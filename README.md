@@ -1,4 +1,4 @@
-# realship-data
+# Real-Ship Data
 
 This repository is intended to make voyage data collected from a real-ship
 data acquisition project, conducted with the support of the Lloyd's Register
