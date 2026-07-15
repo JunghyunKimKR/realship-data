@@ -17,6 +17,11 @@ carrier to the public.
 - **Radar imagery**: S-band and X-band radar images
 - **Ship motion time series**: roll, pitch, and heave measurements
 
+### Data Collection Period
+
+Data has been collected over a period of approximately one year, starting
+in September 2025.
+
 ### Ship Information
 
 - Hull shape of a similar hull form
